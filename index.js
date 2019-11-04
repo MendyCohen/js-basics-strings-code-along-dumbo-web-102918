@@ -5,3 +5,6 @@ let welcomeMessage = currentUser +
 let excitedWelcomeMessage =
 currentUser.toUpperCase() +
 " WELCOME TO FLATBOOK, yes!"
+let shortGreeting =
+currentUser[0] +
+" WELCOME TO FLATBOOK, yes!"
